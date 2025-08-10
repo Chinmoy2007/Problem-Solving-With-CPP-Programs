@@ -1,6 +1,6 @@
 # C++ Problem Solving
 
-## >>Welcome to my repository of C++ problem-solving solutions!
+## Welcome to my repository of C++ problem-solving solutions!
 
 This repository serves as a personal collection of my solutions to various algorithmic challenges and data structure problems. It's a record of my learning journey and a place to track my progress and review past work.
 
