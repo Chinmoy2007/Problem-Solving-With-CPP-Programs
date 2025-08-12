@@ -1,4 +1,4 @@
-// C++ Program to Fing Factorial
+// C++ Program to Fing Factorial of a number actually written like "n!"
 
 #include <iostream>
 using namespace std;
