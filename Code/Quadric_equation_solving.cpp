@@ -1,4 +1,4 @@
-// C++ Codes to Find All Roots of a Quadratic Equation
+// C++ Codes to Find All Roots of a Quadratic Equation which lies in the form of "ax^2 + bx + c = 0"
 
 #include <iostream> // For Standard inputs and outputs functions calling
 #include <cmath>    // For doing complex math operations
